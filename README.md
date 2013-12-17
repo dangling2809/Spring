@@ -1,3 +1,4 @@
 Spring AOP Example
+===================
 
-Contains examples of various spring modules.
+Example of configuring and using spring aop advices for logging.
